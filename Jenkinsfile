@@ -18,4 +18,4 @@
 
 @Library('roboshop') _
 env.abc = "Hello"
-test.new()
+test1.new1()
